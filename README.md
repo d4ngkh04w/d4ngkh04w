@@ -6,7 +6,7 @@
 
 # <img src="src/about_me.gif" width = 40px> About me
 
-<picture><img align="right" src="src/Right_Side.gif" width = 250px></picture>
+<img align="right" src="src/Right_Side.gif" width = 300px>
 
 ```python
 class DangDangKhoa:
@@ -15,6 +15,10 @@ class DangDangKhoa:
         self.name = 'Dang Dang Khoa'
         self.location = 'Da Nang, Viet Nam'
         self.email = 'khoadn1109@gmail.com'
+        self.role = 'Student'
+        self.university = 'University of Science and Technology - The University of Danang (DUT)'
+        self.field = 'Information Technology'
+        self.interests = "Cyber Security"
 
     def __str__(self):
         return self.name
@@ -22,9 +26,6 @@ class DangDangKhoa:
 if __name__ == '__main__':
     me = DangDangKhoa()
 ```
-
-
-<p>I'm a student at <a href="https://www.facebook.com/bachkhoaDUT">University of Science and Technology - The University of Danang (DUT)</a> and currently studying Information of Technology.</p>
 
 # <img src="src/Statistics.gif" width = 45px> Github Stats
 
