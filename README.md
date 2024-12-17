@@ -16,9 +16,10 @@ class DangDangKhoa:
         self.location = 'Da Nang, Viet Nam'
         self.email = 'khoadn1109@gmail.com'
         self.role = 'Student'
-        self.university = 'University of Science and Technology - The University of Danang (DUT)'
+        self.university = 'University of Science and Technology ' +
+                          'The University of Danang (DUT)'
         self.field = 'Information Technology'
-        self.interests = "Cyber Security"
+        self.interest = 'Cyber Security'
 
     def __str__(self):
         return self.name
