@@ -7,10 +7,21 @@
 # <img  src="src/handshake.gif" width = 85px> Connect with me
 
 <p align="center">
-  <a href = 'https://facebook.com/khoaw.dang'><img width = '32px' src="src/facebook-alt.svg"/></a>  
-  <a href = 'https://github.com/dangkhoaw'><img width = '32px'  src="src/github.svg"/></a>            
-  <a href = 'https://www.instagram.com/_dang_khoaw_'><img width = '32px'  src="src/instagram.svg"/></a>
-  <a href = 'https://www.tiktok.com/@dang.khoaw'><img width = '32px' src="src/tiktok.svg"/></a>
+  <a href="https://www.facebook.com/khoaw.dang" target="blank"><img align="center"
+     src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+    alt="Facebook" height="30"/></a>
+  <a href="mailto:khoadn1109@gmail.com" target="blank"><img align="center"
+     src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+     alt="Email" height="30"/></a>
+  <a href="https://www.instagram.com/_dang_khoaw_" target="blank"><img align="center"
+     src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+     alt="Instagram" height="30"/></a>
+  <a href="https://t.me/KhoaMatNao" target="blank"><img align="center"
+     src="https://img.shields.io/badge/Telegram-0088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white" 
+     alt="Telegram" height="30"/></a>
+  <a href="https://www.tiktok.com/@dang.khoaw" target="blank"><img align="center"
+     src="https://img.shields.io/badge/Tiktok-000000.svg?style=for-the-badge&logo=Tiktok&logoColor=white" 
+     alt="Tiktok" height="30"/></a>
 </p>
 
 # <img src="src/about_me.gif" width = 40px> About me
@@ -60,7 +71,7 @@ if __name__ == '__main__':
 
 ---
 
-<details><summary><h3> 📂 My reponsitories </h3></summary>
+<details><summary><h2> 📂 My reponsitories </h2></summary>
 
 <div>
   <p align="center">
@@ -81,3 +92,4 @@ if __name__ == '__main__':
     </a>
   </p>
 </div>
+</details>
