@@ -4,31 +4,33 @@
   <img src="https://visitcount.itsvg.in/api?id=dangkhoaw&label=Profile%20Views&color=1&icon=2&pretty=true" />
 </a></p>
 
-# <img src="src/about_me.gif" width = 40px> About me
+# <img  src="src/handshake.gif" width = 85px> Connect with me
 
-<img align="right" src="src/Right_Side.gif" width = 300px>
+<p align="center">
+  <a href = 'https://facebook.com/khoaw.dang'><img width = '32px' src="src/facebook-alt.svg"/></a>  
+  <a href = 'https://github.com/dangkhoaw'><img width = '32px'  src="src/github.svg"/></a>            
+  <a href = 'https://www.instagram.com/_dang_khoaw_'><img width = '32px'  src="src/instagram.svg"/></a>
+  <a href = 'https://www.tiktok.com/@dang.khoaw'><img width = '32px' src="src/tiktok.svg"/></a>
+</p>
+
+# <img src="src/about_me.gif" width = 40px> About me
 
 ```python
 class DangDangKhoa:
     def __init__(self):
         self.username = 'dangkhoaw'
-        self.name = 'Dang Dang Khoa'
+        self.fullname = 'Dang Dang Khoa'
         self.location = 'Da Nang, Viet Nam'
-        self.email = 'khoadn1109@gmail.com'
         self.role = 'Student'
-        self.university = 'University of Science and Technology ' +
-                          'The University of Danang (DUT)'
+        self.university = 'University of Science and Technology - The University of Danang (DUT)'
         self.field = 'Information Technology'
         self.interest = 'Cyber Security'
-
-    def __str__(self):
-        return self.name
 
 if __name__ == '__main__':
     me = DangDangKhoa()
 ```
 
-# <img src="src/Statistics.gif" width = 45px> Github Stats
+# <a align='left'><img src="src/Statistics.gif" width = 45px></a> Github Stats
 
 <div align="center">
   <table>
@@ -56,13 +58,26 @@ if __name__ == '__main__':
   </table>
 </div>
 
-<!-- # 📌 Pin reponsitories
+---
 
-<a href="https://github.com/dangkhoaw/quan-ly-sinh-vien"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=quan-ly-sinh-vien&theme=catppuccin_mocha&show_owner=false" alt="Quản lý sinh viên" /></a> | <a href="https://github.com/dangkhoaw/quan-ly-tiem-internet"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=quan-ly-tiem-internet&theme=catppuccin_mocha&show_owner=false" /></a> -->
+<details><summary><h3> 📂 My reponsitories </h3></summary>
 
-# <img src="src/handshake.gif" width = 85px> Connect with me
-
-<p><a href = 'https://facebook.com/khoaw.dang'><img width = '32px' align= 'left' src="src/facebook-alt.svg"/></a>  
-<a href = 'https://github.com/dangkhoaw'><img width = '32px' align= 'left' src="src/github.svg"/></a>            
-<a href = 'https://www.instagram.com/_dang_khoaw_'><img width = '32px' align= 'left' src="src/instagram.svg"/></a>
-<a href = 'https://www.tiktok.com/@dang.khoaw'><img width = '32px' align= 'left' src="src/tiktok.svg"/></a></p>
+<div>
+  <p align="center">
+    <a href="https://github.com/dangkhoaw/Student-Management">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=Student-Management&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/dangkhoaw/Net-Management">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=Net-Management&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/dangkhoaw/CTF">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=CTF&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/dangkhoaw/ransomware">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=ransomware&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/dangkhoaw/dangkhoaw">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=dangkhoaw&theme=tokyonight" />
+    </a>
+  </p>
+</div>
