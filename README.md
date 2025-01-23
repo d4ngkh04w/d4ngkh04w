@@ -1,8 +1,6 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=18E532&size=30&center=true&width=500&height=70&lines=Hi+%2C+I'm+Dang+Dang+Khoa" alt="Typing SVG" /></a></p>
 
-<p align="center"><a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=dangkhoaw&label=Profile%20Views&color=1&icon=2&pretty=true" />
-</a></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=dangkhoaw&label=Profile+views&color=b7bdf8&style=for-the-badge" alt="7oSkaaa" height=25px, width=160px/></p>
 
 # <img  src="src/handshake.gif" width = 85px> Connect with me
 
@@ -16,9 +14,6 @@
   <a href="https://www.instagram.com/_dang_khoaw_" target="blank"><img align="center"
      src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
      alt="Instagram" height="30"/></a>
-  <a href="https://t.me/KhoaMatNao" target="blank"><img align="center"
-     src="https://img.shields.io/badge/Telegram-0088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white" 
-     alt="Telegram" height="30"/></a>
   <a href="https://www.tiktok.com/@dang.khoaw" target="blank"><img align="center"
      src="https://img.shields.io/badge/Tiktok-000000.svg?style=for-the-badge&logo=Tiktok&logoColor=white" 
      alt="Tiktok" height="30"/></a>
