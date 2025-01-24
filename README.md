@@ -79,9 +79,6 @@ if __name__ == '__main__':
     <a href="https://github.com/dangkhoaw/CTF">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=CTF&theme=tokyonight" />
     </a>
-    <a href="https://github.com/dangkhoaw/ransomware">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=ransomware&theme=tokyonight" />
-    </a>
     <a href="https://github.com/dangkhoaw/dangkhoaw">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=dangkhoaw&theme=tokyonight" />
     </a>
