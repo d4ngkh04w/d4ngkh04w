@@ -1,6 +1,6 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=18E532&size=30&center=true&width=500&height=70&lines=Hi+%2C+I'm+Dang+Dang+Khoa" alt="Typing SVG" /></a></p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=d4ngkh04w&label=Profile+views&color=b7bdf8&style=for-the-badge" alt="7oSkaaa" height=25px, width=160px/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=d4ngkh04w&label=Profile+views&color=b7bdf8&style=for-the-badge&base=325" alt="d4ngkh04w" height=25px, width=160px/></p>
 
 # <img  src="src/handshake.gif" width = 85px> Connect with me
 
