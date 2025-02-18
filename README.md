@@ -1,6 +1,6 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=18E532&size=30&center=true&width=500&height=70&lines=Hi+%2C+I'm+Dang+Dang+Khoa" alt="Typing SVG" /></a></p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=dangkhoaw&label=Profile+views&color=b7bdf8&style=for-the-badge" alt="7oSkaaa" height=25px, width=160px/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=d4ngkh04w&label=Profile+views&color=b7bdf8&style=for-the-badge" alt="7oSkaaa" height=25px, width=160px/></p>
 
 # <img  src="src/handshake.gif" width = 85px> Connect with me
 
@@ -24,7 +24,7 @@
 ```python
 class DangDangKhoa:
     def __init__(self):
-        self.username = 'dangkhoaw'
+        self.username = 'd4ngkh04w'
         self.fullname = 'Dang Dang Khoa'
         self.location = 'Da Nang, Viet Nam'
         self.role = 'Student'
@@ -44,12 +44,12 @@ if __name__ == '__main__':
       <tr>
         <th>
           <a>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=dangkhoaw&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight" alt="Dang Dang Khoa Github stats" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=d4ngkh04w&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight" alt="Dang Dang Khoa Github stats" />
           </a>
         </th>
         <th>
           <a>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoaw&layout=compact&hide_progress=true&line_height=20&theme=tokyonight" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4ngkh04w&layout=compact&hide_progress=true&line_height=20&theme=tokyonight" />
           </a>
         </th>
       </tr>
@@ -57,7 +57,7 @@ if __name__ == '__main__':
     <tbody>
       <tr>
         <td colspan="2">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=dangkhoaw&theme=tokyo-night" />
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=d4ngkh04w&theme=tokyo-night" />
         </td>
       </tr>
     </tbody>
@@ -70,17 +70,17 @@ if __name__ == '__main__':
 
 <div>
   <p align="center">
-    <a href="https://github.com/dangkhoaw/Student-Management">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=Student-Management&theme=tokyonight" />
+    <a href="https://github.com/d4ngkh04w/Student-Management">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d4ngkh04w&repo=Student-Management&theme=tokyonight" />
     </a>
-    <a href="https://github.com/dangkhoaw/Net-Management">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=Net-Management&theme=tokyonight" />
+    <a href="https://github.com/d4ngkh04w/Net-Management">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d4ngkh04w&repo=Net-Management&theme=tokyonight" />
     </a>
-    <a href="https://github.com/dangkhoaw/CTF">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=CTF&theme=tokyonight" />
+    <a href="https://github.com/d4ngkh04w/CTF">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d4ngkh04w&repo=CTF&theme=tokyonight" />
     </a>
-    <a href="https://github.com/dangkhoaw/dangkhoaw">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=dangkhoaw&theme=tokyonight" />
+    <a href="https://github.com/d4ngkh04w/d4ngkh04w">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d4ngkh04w&repo=d4ngkh04w&theme=tokyonight" />
     </a>
   </p>
 </div>
