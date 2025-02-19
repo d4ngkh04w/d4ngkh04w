@@ -5,18 +5,21 @@
 # <img  src="src/handshake.gif" width = 85px> Connect with me
 
 <p align="center">
-  <a href="https://www.facebook.com/khoaw.dang" target="blank"><img align="center"
+  <a href="https://www.facebook.com/d4ngkh04w" target="_blank"><img align="center"
      src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
     alt="Facebook" height="30"/></a>
-  <a href="mailto:khoadn1109@gmail.com" target="blank"><img align="center"
+  <a href="mailto:khoadn1109@gmail.com" target="_blank"><img align="center"
      src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
      alt="Email" height="30"/></a>
-  <a href="https://www.instagram.com/_dang_khoaw_" target="blank"><img align="center"
-     src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+  <a href="https://www.instagram.com/_dangkhoaw_" target="_blank"><img align="center"
+     src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
      alt="Instagram" height="30"/></a>
-  <a href="https://www.tiktok.com/@dang.khoaw" target="blank"><img align="center"
+  <a href="https://www.tiktok.com/@d4ngkh04w" target="_blank"><img align="center"
      src="https://img.shields.io/badge/Tiktok-000000.svg?style=for-the-badge&logo=Tiktok&logoColor=white" 
      alt="Tiktok" height="30"/></a>
+  <a href="https://t.me/d4ngkh04w" target="_blank"><img align="center"
+     src="https://img.shields.io/badge/Telegram-2C9FD8.svg?style=for-the-badge&logo=Telegram&logoColor=white" 
+     alt="Telegram" height="30"/></a>
 </p>
 
 # <img src="src/about_me.gif" width = 40px> About me
