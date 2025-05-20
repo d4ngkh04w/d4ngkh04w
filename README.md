@@ -66,25 +66,3 @@ if __name__ == '__main__':
     </tbody>
   </table>
 </div>
-
----
-
-<details><summary><h2> 📂 My reponsitories </h2></summary>
-
-<div>
-  <p align="center">
-    <a href="https://github.com/d4ngkh04w/Student-Management">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d4ngkh04w&repo=Student-Management&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/d4ngkh04w/Net-Management">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d4ngkh04w&repo=Net-Management&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/d4ngkh04w/CTF">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d4ngkh04w&repo=CTF&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/d4ngkh04w/d4ngkh04w">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d4ngkh04w&repo=d4ngkh04w&theme=tokyonight" />
-    </a>
-  </p>
-</div>
-</details>
