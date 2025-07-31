@@ -47,12 +47,12 @@ if __name__ == '__main__':
       <tr>
         <th>
           <a>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=d4ngkh04w&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight" alt="Dang Dang Khoa Github stats" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=d4ngkh04w&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&border_radius=7" alt="Dang Dang Khoa Github stats" />
           </a>
         </th>
         <th>
           <a>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4ngkh04w&layout=compact&hide_progress=true&line_height=20&theme=tokyonight" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4ngkh04w&layout=compact&line_height=50&theme=tokyonight&size_weight=0&count_weight=1&langs_count=10" />
           </a>
         </th>
       </tr>
